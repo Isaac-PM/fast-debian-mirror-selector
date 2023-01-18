@@ -11,7 +11,7 @@ The script can be downloaded by cloning this repository: `git clone https://gith
 
 ### Running the script
 
-Depending in the script was dowloades, it may need to be extracted first. 
+Depending on the way the script was dowloaded, it may need to be extracted first. 
 
 After that is done, the script needs to be made executable by running `chmod +x fast-debian-mirror-selector.sh` in the terminal.
 
