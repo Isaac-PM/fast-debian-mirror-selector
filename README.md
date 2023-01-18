@@ -29,7 +29,7 @@ The script will print a numbered list of countries/territories, like this one:
 ```
 <center><img   src="https://i.imgur.com/yFeyfFz.png"   width=""   height=""   /></center>
 
-For selecting the countries that would like to be teste, the user needs to type the numbers of the countries, separated by commas, and press enter. For example, if the user wants to test the mirrors in the Albania and Algeria, they would type `1, 2` and press enter.
+For selecting the countries that would like to be tested, the user needs to type the numbers of the countries, separated by commas, and press enter. For example, if the user wants to test the mirrors in the Albania and Algeria, they would type `2, 3` and press enter.
 
 <center><img   src="https://i.imgur.com/InbKgRm.png"   width=""   height=""   /></center>
 
